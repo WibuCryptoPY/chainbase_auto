@@ -1,0 +1,3 @@
+user:pass@ip:port
+
+You can put a whole list of proxies here.
